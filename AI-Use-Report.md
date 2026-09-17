@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Brinda 
+- Week: 02 
+- Lab: 03
+- Date: 9/16/2026
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [x] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -44,10 +44,10 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: I learned how to make different methods and then call them 
 
 ## Summary
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response: none 
